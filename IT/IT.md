@@ -1,0 +1,4 @@
+- ## [[Machine learning]]
+- ## [[WEB]]
+- ## [[Mobile]]
+- ## [[ИБ]]
